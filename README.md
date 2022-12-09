@@ -26,5 +26,5 @@ Dentro dessa pasta serão salvos os arquivos .png de cada uma das páginas, com 
 Para cada arquivo .pdf será criada uma pasta com o mesmo nome do arquivo. 
 Dentro dessa pasta serão salvos os arquivos .txt de cada uma das páginas, com nome do arquivo iniciado em 00001.txt para a primeira página, incrementando o numero para as demais.
 
-## _clean.bat
+## _clear.bat
 Irá excluir todos os arquivos .pdf da pasta e também qualquer subpasta criada anteriormente.
